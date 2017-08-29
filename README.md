@@ -1,13 +1,13 @@
 # Looming-Machine
 
-This Loom Robot has an interesting mechanical structure built with Lego details. System works with  2 NXT “brains”, which are connected with each other and programmed with LabVIEW. This programming environment gives an ability to test motors and sensors without any difficulties. 
+This Loom Robot has an interesting mechanical structure built with Lego components. System works with  2 NXT “brains”, which are connected with each other and programmed with LabVIEW. This programming environment gives an ability to test motors and sensors without any difficulties. 
 
 ![Looming Machine](https://media.giphy.com/media/y2AmiGihZ8zv2/giphy.gif)
 
-https://www.youtube.com/watch?v=T31FJSFg890
+![Video](https://www.youtube.com/watch?v=T31FJSFg890)
 
 ## Initial Setup
-Վերևից նայում ենք մյուս 2 touch -ին, որոնք ներքևում են պետք է այնպես անենք որ դիմացի  2 ձողերի շարքերից  2-րդը միշտ ավելի բարձր լինի առաջինից։
+Before the start of the program the front heddle (front view) should be placed higher than back heddle.
 
 
 ## Connection Diagram (Need to be translated)
