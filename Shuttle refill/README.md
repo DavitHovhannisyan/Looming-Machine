@@ -1,6 +1,6 @@
 A guide for future descendants on how to refill this "fignyushka" (Shuttle).
 
-##### Attention:
+#### Attention:
 
 On picture WP_20170708_009 is shown where the thread should come out.
 It should always come out from bottom as it is shown in the picture.
