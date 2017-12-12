@@ -10,7 +10,7 @@ This Loom Robot has an interesting mechanical structure built with Lego componen
 Before the start of the program the front heddle (front view) should be placed higher than back heddle.
 
 
-## Connection Diagram (Need to be translated)
+## Connection Diagram
 #### LM I Brick Connections
 Shuttle carrier motors both connect to port A,
 Motor that looses the weft yarn connects to port B,
